@@ -1,0 +1,15 @@
+stage1
+
+##cloning the code from github
+
+git clone githuburl
+
+stage2
+
+##package the code using maven
+
+mvn clean package
+
+stage3
+
+moving the jar/war file to tomcat
