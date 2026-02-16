@@ -1,0 +1,15 @@
+System Information:
+-------------------
+Hostname: LinuxPractice
+OS: Linux LinuxPractice 6.14.0-1018-aws #18~24.04.1-Ubuntu SMP Mon Nov 24 19:46:27 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+Memory:                total        used        free      shared  buff/cache   available
+Mem:           957Mi       445Mi       314Mi       924Ki       363Mi       511Mi
+Swap:             0B          0B          0B
+Disk Space: Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  2.4G  4.4G  35% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           192M  912K  191M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/xvda16     881M   89M  730M  11% /boot
+/dev/xvda15     105M  6.2M   99M   6% /boot/efi
+tmpfs            96M   12K   96M   1% /run/user/1000
