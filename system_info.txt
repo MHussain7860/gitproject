@@ -13,3 +13,11 @@ tmpfs           5.0M     0  5.0M   0% /run/lock
 /dev/xvda16     881M   89M  730M  11% /boot
 /dev/xvda15     105M  6.2M   99M   6% /boot/efi
 tmpfs            96M   12K   96M   1% /run/user/1000
+
++++++++++++++++++++++
+
+this is code is before commiting the C1
+
+echo "this is C1 Commit"
+
++++++++++++++++++++++++++++++++
