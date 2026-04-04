@@ -16,10 +16,12 @@ spec:
    --namespace: prod
  spec:
   --type: NodePort
-  --port: 9000
+
+
+  --port: 3389
 
 ---
 
-adding a new feature: v10
+app version is 20
 
 ---
