@@ -6,3 +6,14 @@ metadata:
 spec:
   --cpu: 2
   --memory: 2
+
+ ---
+
+ apiVersion: v1
+ kind: Service
+ metadata: 
+   --name : appsvc
+   --namespace: prod
+ spec:
+  --type: NodePort
+  --port: 8080
