@@ -16,4 +16,10 @@ spec:
    --namespace: prod
  spec:
   --type: NodePort
-  --port: 8080
+  --port: 3389
+
+---
+
+app version is 20
+
+---
